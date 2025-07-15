@@ -23,7 +23,7 @@
    </size>
   </property>
   <property name="windowTitle">
-   <string>Console | Server Name</string>
+   <string>FLauncherConsole</string>
   </property>
   <property name="styleSheet">
    <string notr="true">QWidget {

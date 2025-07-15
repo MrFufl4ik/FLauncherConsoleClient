@@ -82,7 +82,7 @@ class Ui_Form(object):
     # setupUi
 
     def retranslateUi(self, Form):
-        Form.setWindowTitle(QCoreApplication.translate("Form", u"Form", None))
+        Form.setWindowTitle(QCoreApplication.translate("Form", u"FLauncherConsole", None))
         self.btnOk.setText(QCoreApplication.translate("Form", u"ok", None))
 #if QT_CONFIG(shortcut)
         self.btnOk.setShortcut(QCoreApplication.translate("Form", u"Return", None))
